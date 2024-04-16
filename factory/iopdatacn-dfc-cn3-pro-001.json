@@ -1,0 +1,9 @@
+{
+	"name": "iopdatacn-dfc-cn3-pro-001",
+	"location": "chinanorth3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "955f717c-1737-46d8-9ea5-65d899024645",
+		"tenantId": "d82ccef7-2555-4596-bcfc-06126102c955"
+	}
+}
